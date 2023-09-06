@@ -7,7 +7,7 @@ OpenAI API Free Reverse Proxy
 
 Get OpenAI credits at 10% the openAI price. To purchase, contact here: **https://t.me/svesp1 (telegram) or (svesp@protonmail.com)**
 
-| OpenAI Credits | Sale Price | OpenAI Price (with tax) | Savings |
+| OpenAI Credits | Our Sale Price | OpenAI Original Price (with tax) | Savings |
 |---------------|------------|-------------------------|---------|
 | $100          | $20        | $100 + tax              | 80%     |
 | $200          | $35        | $200 + tax              | 85%     |
