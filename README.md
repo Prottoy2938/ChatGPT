@@ -5,7 +5,7 @@ OpenAI API Free Reverse Proxy
 
 ## Sponsors message 💲:
 
-Get OpenAI credits at 10% the openAI price. To purchase, contact here: **https://t.me/svesp1 (telegram) or (svesp@protonmail.com)**
+Get OpenAI credits at over 90% discounts. To purchase, contact here: **https://t.me/svesp1 (telegram) or (svesp@protonmail.com)**
 
 | OpenAI Credits | Our Sale Price | OpenAI Original Price (with tax) | Savings |
 |---------------|------------|-------------------------|---------|
