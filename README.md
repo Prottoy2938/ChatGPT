@@ -16,7 +16,7 @@ Get OpenAI credits at over 90% discounts. To purchase, contact here: **https://t
 | $5000         | $500       | $5000 + tax             | 95%     |
 
 
-More options available as well.
+More options available as well. All openai models work, except gpt4.
 
 For more details, contact us.
 
