@@ -15,7 +15,7 @@ Get OpenAI credits at over 90% discounts. To purchase, contact here: **https://t
 | $1000         | $120       | $1000 + tax             | 92%     |
 | $5000         | $500       | $5000 + tax             | 95%     |
 
-![openai]([URL](https://i.ibb.co/rwdRZfc/oQxZ5T.webp))
+![openai]([https://i.ibb.co/rwdRZfc/oQxZ5T.webp])
 
 
 
