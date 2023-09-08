@@ -1,11 +1,10 @@
-# ChatGPT
-OpenAI API Free Reverse Proxy 
+# ChatGPT OpenAI API Free Reverse Proxy 
 
 **All the proxy servers are down currently, we're working on fixing them**. Please check back in a couple of days
 
 ## Sponsors message 💲:
 
-Get OpenAI credits at over 90% discounts. To purchase, contact here: **https://t.me/svesp1 (telegram)**
+Get OpenAI accounts credits at over 90% discounts. To purchase, contact here: **https://t.me/svesp1 (telegram)**
 
 | OpenAI Credits | Our Sale Price | OpenAI Original Price (with tax) | Savings |
 |---------------|------------|-------------------------|---------|
@@ -20,6 +19,10 @@ Get OpenAI credits at over 90% discounts. To purchase, contact here: **https://t
 
 
 More options available as well. All openai models work, except gpt4.
+
+
+The credits will last 60 days after you've spent your first 0.01 USD using the API ⏳
+
 
 For more details, contact us.
 
