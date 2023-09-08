@@ -4,7 +4,7 @@
 
 ## Sponsors message 💲:
 
-Get OpenAI accounts credits at over 90% discounts. To purchase, contact here: **https://t.me/svesp1 (telegram)**
+Get OpenAI accounts credits at over 90% discounts. To purchase or to learn more, contact on discord: @acc23131
 
 | OpenAI Credits | Our Sale Price | OpenAI Original Price (with tax) | Savings |
 |---------------|------------|-------------------------|---------|
