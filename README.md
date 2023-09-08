@@ -1,7 +1,7 @@
 # ChatGPT
 OpenAI API Free Reverse Proxy 
 
-**All the proxy servers are down currently, we're working on fixing them**. Please check back in a couple days
+**All the proxy servers are down currently, we're working on fixing them**. Please check back in a couple of days
 
 ## Sponsors message 💲:
 
