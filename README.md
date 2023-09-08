@@ -24,6 +24,9 @@ More options available as well. All openai models work, except gpt4.
 The credits will last 60 days after you've spent your first 0.01 USD using the API ⏳
 
 
+Once you purchase, we'll give the the email:password:apiKey of the account & you can get started using them however you want. 💥
+
+
 For more details, contact us.
 
 
